@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 
- * This is a Java class for a custom exception named `InvalidInformationException`. 
+ * This  is a Java class for a custom exception named `InvalidInformationException`. 
  * This exception extends the `RuntimeException` class, which makes it an unchecked exception.
  *  
  * The class defines three constructors - one with no arguments, one with a message and a cause, 
